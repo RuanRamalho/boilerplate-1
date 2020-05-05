@@ -1,4 +1,45 @@
 /* MOBILE STYLES ------------------------------------------------------------*/
+/* BUTTONS ------------------------------------------------------------------*/
+/* MEDIA QUERY --------------------------------------------------------------*/
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+.black {
+  color: #000; }
+
+.white {
+  color: #fff; }
+
+/* MOBILE STYLES ------------------------------------------------------------*/
+/* MEDIA QUERY --------------------------------------------------------------*/
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+/* MOBILE STYLES ------------------------------------------------------------*/
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea {
+  background-color: #fff;
+  border-bottom: 1px solid #000;
+  border: none;
+  box-sizing: border-box;
+  color: #000;
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px 15px;
+  width: 100%; }
+
+/* MEDIA QUERY --------------------------------------------------------------*/
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+/* MOBILE STYLES ------------------------------------------------------------*/
+/* MEDIA QUERY --------------------------------------------------------------*/
+/* Small devices (tablets, 768px and up) */
+/* Medium devices (desktops, 992px and up) */
+/* Large devices (large desktops, 1200px and up) */
+/* MOBILE STYLES ------------------------------------------------------------*/
 .title {
   font-family: "Open Sans", sans-serif;
   font-size: 30px;
